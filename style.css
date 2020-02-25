@@ -1,3 +1,16 @@
-<style type="text/css">
-body { background:#00ff00; color:#ffffff }
-</style>
+h1
+{
+background:#00ff00;
+color: #FDC689
+}
+p
+{
+color: #ACD373;
+background: #00BFF3
+}
+
+body { background:#000000; color:#ffff00 }
+A:link { color: red; background:#000000 }
+A:visited { color: blue; background:#000000 }
+A:hover { color: green; background:#000000 }
+A:active { color: lime; background:#000000 }
