@@ -1,14 +1,10 @@
-h1
+h1,h2
 {
-background:#00ff00;
-color: #FDC689
+text-align: center;
+color: #ffff00;
+font-family: arial
 }
-p
-{
-color: #ACD373;
-background: #00BFF3
-}
-
+body { background-image: url("beranda.jpg"); background-repeat: repeat-y; background-attachment: fixed }
 body { background:#000000; color:#ffff00 }
 A:link { color: red; background:#000000 }
 A:visited { color: blue; background:#000000 }
